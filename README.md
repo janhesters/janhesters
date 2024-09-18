@@ -18,6 +18,11 @@ I'm the CTO and co-founder of [ReactSquad](https://reactsquad.io/), providing se
 - ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+<p align="center">
+    <a href="https://github.com/jrohitofficial/jrohitofficial">
+        <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janhesters&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
