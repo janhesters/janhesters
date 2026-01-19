@@ -1,30 +1,36 @@
  <!-- reactsquad-banner.png -->
 [![Hire senior React engineers!](https://raw.githubusercontent.com/janhesters/janhesters/main/reactsquad-banner.png)](https://reactsquad.com)
 
-<h1 align="center">Hi 👋, I'm Jan Hesters</h1>
+# Hi 👋, I'm Jan Hesters
 
-I'm the CTO and co-founder of [ReactSquad](https://reactsquad.io/), providing senior full-stack React developers to SaaS companies.<br><br>I also help you master full-stack web development on all socials.<br><br>Before founding ReactSquad, I was the 7th employee at Hopin, the fastest-growing SaaS company during the pandemic. Hopin grew from a $6 million valuation to over $7 billion with hundreds of thousands of monthly active users.
+I - [@janhesters](https://x.com/janhesters) - am the CTO and co-founder of [**ReactSquad**](https://reactsquad.io/), a platform that connects SaaS and e-commerce companies with vetted senior full-stack React developers to build and scale production-ready apps quickly. I also co-founded [**SocialKit**](https://getsocialkit.com/) and create [educational content](https://janhesters.com/) to help developers master full-stack web development, engineering management, and tools like React, Next.js, and Remix.
 
-## 🌐 Socials:
+**Bio links**:  
+- Personal site: https://janhesters.com  
+- GitHub: https://github.com/janhesters  
+- YouTube: https://www.youtube.com/@JanHesters  
+- LinkedIn: https://www.linkedin.com/in/jan-hesters  
+- X: https://x.com/janhesters
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-hesters-7562ba166)
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/janhesters)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@janhesters?sub_confirmation=1) 
+**Values**: Ask better questions. Focus on craftsmanship, quality code, clear communication, and intentional decision-making. Prioritize deep understanding over speed, user-focused development, and mentoring others to become better programmers and managers.
 
-# 💻 Tech Stack:
+**Slow is smooth and smooth is fast.** Ship with intention—prioritize clean architecture, thorough testing (unit, integration, e2e), and real user validation. Use modern tools thoughtfully without cutting corners.
 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+**Skills and specialties**:  
+Jan is the creator/contributor of:  
+- [**react-router-saas-template**](https://www.react-saas-template.com/) (free SaaS starter with React Router)  
+- [**shadcn-kanban-board**](https://www.shadcn-kanban-board.com/) (Shadcn UI Kanban implementation)  
+- Contributions to [**aidd**](https://github.com/paralleldrive/aidd) (AI-Driven Development framework) and [**riteway**](https://github.com/paralleldrive/riteway) (simple TDD testing library)  
 
-# 📊 GitHub Stats:
+**Expert in**:  
+- React ecosystem (React, Next.js, Remix, React Router)  
+- Full-stack JavaScript/TypeScript (Node.js, Express)  
+- AI integration (OpenAI, AI-driven workflows)  
+- Modern frontend tooling (Shadcn UI, Tailwind, WebRTC, Web3)  
+- Engineering management and scaling teams  
+- Functional programming, testing best practices, and high-quality production apps  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janhesters&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=janhesters&icon=0&color=0)](https://visitcount.itsvg.in)
+**Background**: Studied physics at RWTH Aachen University, co-founded early startups (including Ordersome), worked in blockchain, mentored by [Eric Elliott](https://github.com/ericelliott), and was employee #7 at [Hopin](https://en.wikipedia.org/wiki/Hopin_(company)) (fastest-growing SaaS during the pandemic). Now leads [ReactSquad](https://reactsquad.io/), helping companies ship exceptional software with senior talent.
 
 ---
 
