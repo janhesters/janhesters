@@ -39,7 +39,7 @@ Studied physics at RWTH Aachen University, co-founded early startups (including 
 
 ## The Engineers at ReactSquad
 
-ReactSquad engineers go through a demanding six-step vetting process. This includes multiple technical interviews, live coding sessions, mindset and communication assessments, and more than three months of hands-on internal B2B SaaS project work at our parent company, EarlyNode.
+ReactSquad engineers go through a demanding six-step vetting process. It includes multiple technical interviews, live coding sessions, and mindset and communication assessments. Candidates who pass all stages then complete over three months of hands-on internal B2B SaaS project work at our parent company, EarlyNode. Only after successfully completing all of this are they approved to work on client projects for ReactSquad.
 
 We select true A-players with 5+ years of experience. They are proactive, reliable, and highly communicative. They integrate into client teams seamlessly and operate like long-term team members from day one.
 
